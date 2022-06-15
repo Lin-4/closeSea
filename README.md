@@ -1,0 +1,2 @@
+# closeSea
+NFT trading platform
